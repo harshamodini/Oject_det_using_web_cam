@@ -1,4 +1,4 @@
-# object_detection_using_yolo_in_video_and_webcam
+# object detection using yolo in video and webcam
 this is to detect objects in an video or by use of webcam using opencv, yolo and python 
 
 this is a program to detect objects in an video using YOLO algorithm 
